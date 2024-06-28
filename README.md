@@ -11,6 +11,8 @@ This is a simple catalog viewer application built using React. The application a
 - Start a slideshow that automatically cycles through the images every 3 seconds.
 - User interactions (thumbnail click, previous/next buttons) are still available during the slideshow.
 
+<img src="https://github.com/Dpancha6/catalog-viewer/assets/89943583/36cbde6b-0f3f-4cdb-b625-28dd30bb1e8a" alt="Features" width="400">
+
 ## Getting Started
 
 ### Prerequisites
@@ -23,9 +25,10 @@ This is a simple catalog viewer application built using React. The application a
 1. Clone the repository:
 
    git clone https://github.com/Dpancha6/catalog-viewer.git
+   
    cd catalog-viewer
 
-2. Install the dependencies:
+3. Install the dependencies:
 
    npm install
 
