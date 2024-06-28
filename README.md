@@ -23,6 +23,7 @@ This is a simple catalog viewer application built using React. The application a
 1. Clone the repository:
 
    git clone https://github.com/Dpancha6/catalog-viewer.git
+   
    cd catalog-viewer
 
 3. Install the dependencies:
