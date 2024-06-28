@@ -1,4 +1,5 @@
 # Catalog Viewer React App
+Project Link: https://dpancha6.github.io/catalog-viewer/
 
 This is a simple catalog viewer application built using React. The application allows users to view a list of product images, navigate between them, and start a slideshow.
 
