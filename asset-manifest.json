@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/catalog-viewer.git/static/css/main.7a05096b.css",
-    "main.js": "/catalog-viewer.git/static/js/main.05fa09cb.js",
-    "stencil-polyfills-dom.js": "/catalog-viewer.git/static/js/stencil-polyfills-dom.a5063a4c.chunk.js",
-    "stencil-polyfills-core-js.js": "/catalog-viewer.git/static/js/stencil-polyfills-core-js.dd2e0f74.chunk.js",
-    "stencil-polyfills-css-shim.js": "/catalog-viewer.git/static/js/stencil-polyfills-css-shim.e6c32a6a.chunk.js",
-    "stencil-h8k-logo_2-entry-js.js": "/catalog-viewer.git/static/js/stencil-h8k-logo_2-entry-js.3fb70c8b.chunk.js",
-    "static/media/tea-light-candle.jpeg": "/catalog-viewer.git/static/media/tea-light-candle.ec5a0036892bed8ce3e7.jpeg",
-    "static/media/green-light-candle.jpeg": "/catalog-viewer.git/static/media/green-light-candle.e665aeaf4d00b328be3e.jpeg",
-    "static/media/white-light-candle.jpg": "/catalog-viewer.git/static/media/white-light-candle.86a517cc7b38abc80e5e.jpg",
-    "static/media/pink-light-candle.jpeg": "/catalog-viewer.git/static/media/pink-light-candle.3b5cbc7c873d61c9ae2f.jpeg",
-    "index.html": "/catalog-viewer.git/index.html",
-    "main.7a05096b.css.map": "/catalog-viewer.git/static/css/main.7a05096b.css.map",
-    "main.05fa09cb.js.map": "/catalog-viewer.git/static/js/main.05fa09cb.js.map",
-    "stencil-polyfills-dom.a5063a4c.chunk.js.map": "/catalog-viewer.git/static/js/stencil-polyfills-dom.a5063a4c.chunk.js.map",
-    "stencil-polyfills-core-js.dd2e0f74.chunk.js.map": "/catalog-viewer.git/static/js/stencil-polyfills-core-js.dd2e0f74.chunk.js.map",
-    "stencil-polyfills-css-shim.e6c32a6a.chunk.js.map": "/catalog-viewer.git/static/js/stencil-polyfills-css-shim.e6c32a6a.chunk.js.map",
-    "stencil-h8k-logo_2-entry-js.3fb70c8b.chunk.js.map": "/catalog-viewer.git/static/js/stencil-h8k-logo_2-entry-js.3fb70c8b.chunk.js.map"
+    "main.css": "/catalog-viewer/static/css/main.7a05096b.css",
+    "main.js": "/catalog-viewer/static/js/main.be002e00.js",
+    "stencil-polyfills-dom.js": "/catalog-viewer/static/js/stencil-polyfills-dom.a5063a4c.chunk.js",
+    "stencil-polyfills-core-js.js": "/catalog-viewer/static/js/stencil-polyfills-core-js.dd2e0f74.chunk.js",
+    "stencil-polyfills-css-shim.js": "/catalog-viewer/static/js/stencil-polyfills-css-shim.e6c32a6a.chunk.js",
+    "stencil-h8k-logo_2-entry-js.js": "/catalog-viewer/static/js/stencil-h8k-logo_2-entry-js.3fb70c8b.chunk.js",
+    "static/media/tea-light-candle.jpeg": "/catalog-viewer/static/media/tea-light-candle.ec5a0036892bed8ce3e7.jpeg",
+    "static/media/green-light-candle.jpeg": "/catalog-viewer/static/media/green-light-candle.e665aeaf4d00b328be3e.jpeg",
+    "static/media/white-light-candle.jpg": "/catalog-viewer/static/media/white-light-candle.86a517cc7b38abc80e5e.jpg",
+    "static/media/pink-light-candle.jpeg": "/catalog-viewer/static/media/pink-light-candle.3b5cbc7c873d61c9ae2f.jpeg",
+    "index.html": "/catalog-viewer/index.html",
+    "main.7a05096b.css.map": "/catalog-viewer/static/css/main.7a05096b.css.map",
+    "main.be002e00.js.map": "/catalog-viewer/static/js/main.be002e00.js.map",
+    "stencil-polyfills-dom.a5063a4c.chunk.js.map": "/catalog-viewer/static/js/stencil-polyfills-dom.a5063a4c.chunk.js.map",
+    "stencil-polyfills-core-js.dd2e0f74.chunk.js.map": "/catalog-viewer/static/js/stencil-polyfills-core-js.dd2e0f74.chunk.js.map",
+    "stencil-polyfills-css-shim.e6c32a6a.chunk.js.map": "/catalog-viewer/static/js/stencil-polyfills-css-shim.e6c32a6a.chunk.js.map",
+    "stencil-h8k-logo_2-entry-js.3fb70c8b.chunk.js.map": "/catalog-viewer/static/js/stencil-h8k-logo_2-entry-js.3fb70c8b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a05096b.css",
-    "static/js/main.05fa09cb.js"
+    "static/js/main.be002e00.js"
   ]
 }
