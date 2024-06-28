@@ -1,0 +1,65 @@
+@import "../node_modules/h8k-design/dist/index.css";
+
+.image-thumb {
+  border: 2px solid transparent;
+}
+
+.image-thumb.thumb-selected {
+  border: 2px solid #237e20;
+}
+
+.thumb {
+  background-size: contain;
+  cursor: pointer;
+  width: 80px;
+  height: 80px;
+}
+
+.header {
+  height: 50px;
+  align-content: center;
+  text-align: center;
+  padding-bottom: 5px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #55b052;
+  background-color: #39424e;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+}
+
+.checkbox-container input[type="checkbox"] {
+  appearance: none;
+  background-color: white;
+  border: 1px solid black;
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+}
+
+.checkbox-container input[type="checkbox"]:checked::after {
+  content: "✓";
+  font-size: 20px;
+  color: #237e20;
+  position: absolute;
+  top: -4px;
+  left: 5px;
+}
+
+.checkbox-container label {
+  margin-left: 10px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.checkbox-container:hover {
+  color: #237e20;
+}
+.checkbox-container:hover input[type="checkbox"] {
+  border: 1px solid #237e20;
+}
